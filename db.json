@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "TODOS OS DETALHES: Estrangulamento a Guarda Fechada!!! (Todos deveriam saber!!!)",
+      "descricao": "#estrangulamento #guarda-fechada #iniciante",
+      "url": "https://www.youtube.com/embed/kMw0Iju_NeM",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 2,
+      "titulo": "Da Guarda Fechada para as Costas - Jogo do Roger Gracie!!!",
+      "descricao": "#pegada-nas-costas #guarda-fechada #iniciante",
+      "url": "https://www.youtube.com/embed/m9P-_CC0fTM",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 3,
+      "titulo": "Raspagem BÁSICA DE FAIXA BRANCA que derruba até FAIXA PRETA!!!",
+      "descricao": "#raspagem #iniciante",
+      "url": "https://www.youtube.com/embed/kN7o_g_F9Kc",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 4,
+      "titulo": "Mistérios da Mão Na Gola - Total Controle do Oponente!!!",
+      "descricao": "#mão-na-gola #iniciante",
+      "url": "https://www.youtube.com/embed/7dic1i05Ly8",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 5,
+      "titulo": "Como Raspar O Adversário Maior E Mais Pesado Com Bruno Malfacine",
+      "descricao": "#raspagem #pesado #magro",
+      "url": "https://www.youtube.com/embed/B-cyv7t0aoE",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 6,
+      "titulo": "Como Aplicar O Triangulo Perfeito - Feu bjj",
+      "descricao": "#triangulo #finalizacao #fundamentos #iniciante",
+      "url": "https://www.youtube.com/embed/ULFqJZbnB_w",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 7,
+      "titulo": "Seminário Irmãos Mendes - posições dos 2 lados",
+      "descricao": "#posicoes #montada #raspagem #irmaos-mendes",
+      "url": "https://www.youtube.com/embed/8pmHfkbhqZI",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 8,
+      "titulo": "Armlock da guarda: Roger Gracie ensina o segredo para o braço não escapar",
+      "descricao": "#roger-gracie #armlock #posicoes",
+      "url": "https://www.youtube.com/embed/TUG66clvqyw",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "id": 9,
+      "titulo": "Conceitos para manter a montada",
+      "descricao": "#montada #finalizacao #estabilizacao #fundamentos",
+      "url": "https://www.youtube.com/embed/Wy6Si0FuQaU",
+      "imagem": "img/icone-jiujitsu-logo.jpeg"
+    },
+    {
+      "titulo": "COMO SAIR DA GUARDA FECHADA NO JIU JITSU",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/17RkQsA0zD8",
+      "imagem": "img/icone-jiujitsu-logo.jpeg",
+      "id": 10
+    }
+  ]
+}
